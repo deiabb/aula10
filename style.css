@@ -1,0 +1,29 @@
+body {
+    font-family: "Dosis", sans-serif;
+}
+
+.desafio1 {
+    color: rgb(255, 166, 2);
+    font-size: 20px;
+}
+
+#lista1 {
+    list-style-type:lower-roman;
+    color: rgb(3, 23, 240);   
+    font-weight: 600;
+}
+
+#lista2 {
+    list-style-image: url('./icones/robo-2.png');
+    color: rgb(6, 97, 223);
+    font-weight: 700;
+}
+
+.lista {
+    background-color: rgb(250, 224, 202);
+    margin-bottom: 50px;
+}
+
+h5 {
+    font-size: 16px;
+}
